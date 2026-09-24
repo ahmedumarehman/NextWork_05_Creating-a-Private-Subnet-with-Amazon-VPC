@@ -1,0 +1,2 @@
+# NextWork_05_Creating-a-Private-Subnet-with-Amazon-VPC
+This project demonstrates how to create and configure a private subnet in Amazon VPC. It covers VPC creation, public and private subnets, route tables, Internet Gateway, Security Groups, and Network ACLs.  The project focuses on understanding how AWS networking components work together to isolate private resources and control network traffic.
